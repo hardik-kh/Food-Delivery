@@ -1,7 +1,7 @@
 # Food-App
 
 ### This is a Food app made using React Native where the user can choose the food type <br/>
-### and restaurant accordingly.
+### and restaurant accordingly and then the Delivery route is shown using Google Maps
 
 App Screens
 -------
